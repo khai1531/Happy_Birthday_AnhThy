@@ -192,7 +192,8 @@ $("document").ready(function () {
 
   $("#story").click(function () {
     // Chuyển hướng đến Google.com
-    window.location.href = "https://www.google.com";
+    window.location.href =
+      "https://khai1531.github.io/Happy_Birth_Day_Anh_Thy/";
   });
 });
 
